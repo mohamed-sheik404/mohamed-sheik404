@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mohamed-sheik404
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently putting my Excel, Tableau, and SQL skills to the test through projects.
-- 📫 How to reach me: mohamed.sheik404@gmail.com
-
+- 👋 Hi, I'm Mohamed Sheik, a Computer Science graduate from Winona State University.
+- 👀 Interested in Data Analytics.
+- 🌱 Currently applying my skills in Excel, Tableau, and SQL through projects.
+- 📫 Reach me at mohamed.sheik404@gmail.com
